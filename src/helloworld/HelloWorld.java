@@ -10,7 +10,7 @@ import static kiss.API.*;
 
 public class HelloWorld {
     void testRun(){
-        outExpect("Hello");
+        outExpect("Hello!");
         run();
         outClose();
     }
@@ -18,5 +18,5 @@ public class HelloWorld {
     void run(){
         println("Hello!");
     }
-    fnafjdnb
+    
 }
